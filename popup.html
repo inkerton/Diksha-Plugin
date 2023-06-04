@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sunbird Editor</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <img src="sunbird_logo.png" alt="Sunbird Logo" class="logo">
+    <h1 class="heading">Sunbird Editor</h1>
+    
+    <div class="content">
+      <h2 class="section-heading">Text</h2>
+      <textarea id="text-input" rows="4" cols="30" placeholder="Enter text..."></textarea>
+
+      <h2 class="section-heading">Languages</h2>
+      <div class="language-select">
+        <label for="source-language-select">Source Language:</label>
+        <select id="source-language-select">
+          <option value="en">English</option>
+          <option value="fr">French</option>
+          <!-- Add more language options as needed -->
+        </select>
+      </div>
+      
+      <div class="language-select">
+        <label for="target-language-select">Target Language:</label>
+        <select id="target-language-select">
+          <option value="fr">French</option>
+          <option value="en">English</option>
+          <!-- Add more language options as needed -->
+        </select>
+      </div>
+
+      <h2 class="section-heading">Upload File</h2>
+      <input type="file" id="file-upload" accept=".pdf" />
+
+      <button id="translate-button">Translate</button>
+
+      <h2 class="section-heading">Translated Text</h2>
+      <p id="translated-text"></p>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
