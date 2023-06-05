@@ -10,5 +10,6 @@ This is to provide capability of translation of content from one English or an I
   <ul>
     <li>Input textual content either through typing in the text, upload a pdf file or refer to an existing content on the platform.</li>
     <li>Input source and target languages</li>
+    <li>The plugin takes the input, translates the text and provides the translated text.</li>
   </ul>
 </ul>
