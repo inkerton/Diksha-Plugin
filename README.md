@@ -13,4 +13,5 @@ This is to provide capability of translation of content from one English or an I
     <li>The plugin takes the input, translates the text and provides the translated text.</li>
   </ul>
   <li>When the plugin is integrated with ECML Editor, the translated text appears as part of the slide in the Editor</li>
+  <li>When the plugin is integrated with the upload editor, it provides the translated text as a pdf.</li>
 </ul>
