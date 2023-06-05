@@ -6,4 +6,7 @@ This is to provide capability of translation of content from one English or an I
 ## Features to be implemented
 <ul>
   <li>A UI plugin that integrates with the ECML and Upload Editors of Sunbird ED.</li>
+  <li>The plugin has UI to:</li>
+  <ul>
+    <li>Input textual content either through typing in the text, upload a pdf file or refer to an existing content on the platform.</li>
 </ul>
