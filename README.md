@@ -4,3 +4,6 @@ Sunbird ED is a platform that can be used to deploy scale-ready solutions in the
 
 This is to provide capability of translation of content from one English or an Indian language to other Indian languages using AI. This will greatly help content creators to utilize existing content and repurpose it in their one language.
 ## Features to be implemented
+<ul>
+  <li>A UI plugin that integrates with the ECML and Upload Editors of Sunbird ED.</li>
+</ul>
