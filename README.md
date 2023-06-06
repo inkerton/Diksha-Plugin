@@ -16,6 +16,7 @@ This is to provide capability of translation of content from one English or an I
   <li>When the plugin is integrated with the upload editor, it provides the translated text as a pdf.</li>
 </ul>
 # How to setup the plugin
+## Features to be implemented
 <ol>
   <li>Clone the repo [here][].</li>
   
