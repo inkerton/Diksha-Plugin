@@ -19,7 +19,7 @@ This is to provide capability of translation of content from one English or an I
 ## How to setup the plugin
 
 <ol>
-  <li>Clone the repo [here][].</li>
+  <li>Clone the repo [here][https://github.com/inkerton/Diksha-Plugin].</li>
   <li>Open Google Chrome and go to chrome://extensions.</li>
   <li>Enable Developer mode by toggling the switch in the top-right corner.</li>
   <li>Click on "Load unpacked" and select the folder containing your extension files.</li>
