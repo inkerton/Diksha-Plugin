@@ -19,4 +19,5 @@ This is to provide capability of translation of content from one English or an I
 <ol>
   <li>Clone the repo [here][].</li>
   <li>Open Google Chrome and go to chrome://extensions.</li>
+  <li>Enable Developer mode by toggling the switch in the top-right corner.</li>
 </ol>
