@@ -21,4 +21,5 @@ This is to provide capability of translation of content from one English or an I
   <li>Open Google Chrome and go to chrome://extensions.</li>
   <li>Enable Developer mode by toggling the switch in the top-right corner.</li>
   <li>Click on "Load unpacked" and select the folder containing your extension files.</li>
+  <li>The extension should now be loaded. You can test it by selecting text on any webpage, and a popup window will appear with the selected text.</li>
 </ol>
