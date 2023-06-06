@@ -15,7 +15,9 @@ This is to provide capability of translation of content from one English or an I
   <li>When the plugin is integrated with ECML Editor, the translated text appears as part of the slide in the Editor.</li>
   <li>When the plugin is integrated with the upload editor, it provides the translated text as a pdf.</li>
 </ul>
-# hi
+
+## How to setup the plugin
+
 <ol>
   <li>Clone the repo [here][].</li>
   <li>Open Google Chrome and go to chrome://extensions.</li>
