@@ -18,4 +18,5 @@ This is to provide capability of translation of content from one English or an I
 ## How to setup the plugin
 <ol>
   <li>Clone the repo [here][].</li>
+  
 </ol>
