@@ -1,5 +1,10 @@
+.title{
+  justify-content: center;
+  margin-top: auto;
+}
+
 body {
-    background-color: #06c6e3; /* Light blue background */
+    background-color: #98e7f4; /* Light blue background */
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -14,8 +19,8 @@ body {
   }
   
   .logo {
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
   }
   
   .heading {
@@ -26,7 +31,7 @@ body {
   .content {
     margin-top: 20px;
     padding: 20px;
-    background-color: #a7eafb; /* White content background */
+    background-color: #ffffff; /* White content background */
     border-radius: 5px;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
   }
